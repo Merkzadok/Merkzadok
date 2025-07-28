@@ -1,13 +1,13 @@
 ## Hi there 👋
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Ganaa
 
-I'm a passionate **Software Developer** who enjoys building clean, efficient, and scalable applications. I focus on writing maintainable code and exploring modern development tools. Whether it's frontend, backend, or DevOps — I love solving problems and learning new things every day.
+I'm a passionate **Software Developer** who enjoys building clean, efficient, and scalable applications. I focus on writing maintainable code and exploring modern development tools. Whether it's frontend, backend — I love solving problems and learning new things every day.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Java  
+- **Languages:** JavaScript, TypeScript  
 - **Frontend:** React, Next.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express, Django, Flask  
 - **DevOps & Tools:** Docker, GitHub Actions, AWS, Firebase  
@@ -17,9 +17,8 @@ I'm a passionate **Software Developer** who enjoys building clean, efficient, an
 
 ## 🚀 What I'm Working On
 
-- 🔭 Building a [your project name] using [Next.js, Supabase, etc.]  
-- 📦 Contributing to open-source at [mention org or repo if any]  
-- 📚 Deep-diving into system design and architecture patterns  
+- 🔭 Building a Buy me Cofee using Next.js
+- 📚 Deep-diving into system design and architecture patterns
 
 ---
 
