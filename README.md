@@ -10,7 +10,6 @@ I'm a passionate **Software Developer** who enjoys building clean, efficient, an
 - **Languages:** JavaScript, TypeScript  
 - **Frontend:** React, Next.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express, Django, Flask  
-- **DevOps & Tools:** Docker, GitHub Actions, AWS, Firebase  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 
 ---
@@ -24,10 +23,8 @@ I'm a passionate **Software Developer** who enjoys building clean, efficient, an
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: [your-portfolio.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]  
-- 🐦 Twitter/X: [@yourhandle]  
-- 📧 Email: [youremail@example.com]
+- 🌐 Portfolio:https://portfolio-merkzadoks-projects.vercel.app/  
+- 📧 Email: merkzadok@gmail.com
 
 ---
 
