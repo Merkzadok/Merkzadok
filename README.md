@@ -38,15 +38,6 @@ I'm a passionate **Software Developer** from Mongolia 🇲🇳 who enjoys crafti
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- 🔭 **Building** a Buy Me Coffee platform using **Next.js** - helping creators get support
-- 🏗️ **Exploring** microservices architecture and distributed systems
-- 📚 **Deep-diving** into system design patterns and scalability solutions
-- 🎨 **Experimenting** with modern UI/UX design principles
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -79,7 +70,7 @@ I'm a passionate **Software Developer** from Mongolia 🇲🇳 who enjoys crafti
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio-redeploy-taupe.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merkzadok@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
