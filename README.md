@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a passionate **Software Developer** from Mongolia 🇲🇳 who enjoys crafting clean, efficient, and scalable applications. I thrive on writing maintainable code and exploring cutting-edge development tools. Whether it's frontend magic or backend wizardry — I love tackling complex problems and embracing new technologies every day.
+I'm a Software Developer from Mongolia 🇲🇳 passionate about building clean, efficient, and scalable apps. I enjoy solving complex problems and exploring new technologies every day.
 
 ---
 
