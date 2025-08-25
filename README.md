@@ -59,7 +59,7 @@ I'm a Software Developer from Mongolia 🇲🇳 passionate about building clean,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merkzadok&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=merkzadok&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merkzadok&theme=tokyonight&hide_border=true&show_icons=true)
 
 </div>
 
