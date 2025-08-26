@@ -36,7 +36,7 @@ I'm a Software Developer from Mongolia 🇲🇳 passionate about building clean,
 </div>
 
 ---
-
+---
 ## 🌟 Featured Projects
 
 <div align="center">
