@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a Software Developer from Mongolia 🇲🇳 passionate about building clean, efficient, and scalable apps. I enjoy solving complex problems and exploring new technologies every day.
+I'm a Software Developer from Mongolia  passionate about building clean, efficient, and scalable apps. I enjoy solving complex problems and exploring new technologies every day.
 
 ---
 
