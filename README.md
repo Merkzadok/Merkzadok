@@ -44,8 +44,8 @@ I'm a Software Developer from Mongolia  passionate about building clean, efficie
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎬 **Movie Explorer** | Interactive movie discovery app with advanced filtering | React, TypeScript, TMDB API |
-| ☕ **Buy Me Coffee** | Creator support platform with payment integration | Next.js, TypeScript, Stripe |
-| 👶 **KidsLingo** | Language learning app for children aged 3-12 | React, Node.js, MongoDB |
+| ☕ **Buy Me Coffee** | Creator support platform with payment integration | Next.js, TypeScript, Cloudinary |
+| 👶 **KidsLingo** | Language learning app for children aged 3-12 | Next.js, Express.js, PostgreSQL |
 
 </div>
 
