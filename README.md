@@ -69,7 +69,7 @@ I'm a Software Developer from Mongolia  passionate about building clean, efficie
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio-topaz-three-18.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio-black-white.onrender.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merkzadok@gmail.com)
 
 
