@@ -94,6 +94,6 @@ I'm a Software Developer from Mongolia  passionate about building clean, efficie
 
 **Thanks for visiting my profile! ⭐ Feel free to explore my repositories and let's build something amazing together!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=merkzadok&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=L-era67&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
