@@ -14,7 +14,7 @@ React, Next.js, Tailwind CSS
 Node.js, Express.js, Spring Boot
 
 **Databases**  
-PostgreSQL, MongoDB, MySQL
+MSSQL, MongoDB, PostgreSQL
 
 ## Contact
 
