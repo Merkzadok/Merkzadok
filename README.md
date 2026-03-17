@@ -8,13 +8,13 @@ Software Developer working on ECM billing center projects in Ulaanbaatar, Mongol
 JavaScript, TypeScript, Java
 
 **Frontend**  
-React, Next.js, Tailwind CSS
+React, Next.js, Tailwind CSS, AntDesign, ShadCN
 
 **Backend**  
 Node.js, Express.js, Spring Boot
 
 **Databases**  
-MSSQL, MongoDB, PostgreSQL
+MSSQL, MongoDB, PostgreSQL, Prisma ORM
 
 ## Contact
 
