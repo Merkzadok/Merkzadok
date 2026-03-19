@@ -1,6 +1,6 @@
 # Ganaa
 
-Software Developer working on ECM billing center projects in Ulaanbaatar, Mongolia.
+Software Developer working on ECM billing center projects in Ulaanbaatar, Mongolia
 
 ## Technical Skills
 
